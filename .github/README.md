@@ -4,8 +4,8 @@
 
 This is a Typescript frameworks with [Express.js](https://github.com/expressjs/express) datasets, [W2UI](https://github.com/vitmalina/w2ui) drill-down data grids & [Apache ECharts](https://github.com/apache/echarts) for Log Data Visualization in charts, reports & data analysis interfaces for MySQL or MariaDB database.
 
-A Web interface designed for MySQL or MariaDB databases [mysql-schema-http-logs](https://github.com/willthefarmer/mysql-schema-http-logs)
-and [mysql-schema-system-logs](https://github.com/willthefarmer/mysql-schema-system-logs).
+A Web interface designed for MySQL or MariaDB databases [mysql-http-logs](https://github.com/willthefarmer/mysql-http-logs)
+and [mysql-system-logs](https://github.com/willthefarmer/mysql-system-logs).
 
 Both databases are populated by [log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql).
 
