@@ -7,6 +7,6 @@ This is a Typescript frameworks with [Express.js](https://github.com/expressjs/e
 A Web interface designed for MySQL or MariaDB databases [mysql-http-logs](https://github.com/willthefarmer/mysql-http-logs)
 and [mysql-system-logs](https://github.com/willthefarmer/mysql-system-logs).
 
-Both databases are populated by [log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql).
+Both databases are populated by [files-to-mysql](https://github.com/willthefarmer/files-to-mysql).
 
 Code coming soon...
