@@ -10,7 +10,7 @@ A Web interface designed for MySQL or MariaDB databases:
 
 [mysql-system-logs](https://github.com/willthefarmer/mysql-system-logs)
 
-[mysql-file-system](https://github.com/willthefarmer/mysql-file-system)
+[mysql-file-system](https://github.com/willthefarmer/mysql-system-files)
 
 Database schemas are populated by [files-to-mysql](https://github.com/willthefarmer/files-to-mysql)
 
